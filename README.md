@@ -67,7 +67,7 @@ Whether to keep the files which were concatenated. By default they are not kept
 and deleted from the build (thus only keeping the newly created file at
 `options.output`).
 
-#### insertNewLine
+#### insertNewline
 Type: `Boolean` / `String`
 Default: `true`
 
